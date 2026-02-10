@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teja-05-arch
 - 👀 I’m interested in c++,c,python
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ and pyhton
 
 <!---
 teja-05-arch/teja-05-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
